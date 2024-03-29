@@ -15,8 +15,6 @@ A Telegram Video Watermark Adder Bot by
 - Can Save Watermark Size for users.
 - Can Upload to [Streamtape](https://streamtape.com/) if File Size is more than 2GB.
 
-### Demo Bot:
-<a href="https://t.me/VideoWatermark_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
